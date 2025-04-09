@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.a {
+    background: linear-gradient(to right, #5c2576, #4a1d5e);
+}
+
+.b {
+    background: linear-gradient(to right, #702e75, #612866);
+}
+
+.c {
+    background: linear-gradient(to right, #8a3a75, #6e2f5d);
+}
+
+.d {
+    background: linear-gradient(to right, #a34874, #8b3e63);
+}
+
+.e {
+    background: linear-gradient(to right, #bb5374, #9b4560);
+}
+
+.f {
+    background: linear-gradient(to right, #d35f74, #b35062);
+}
+
+.g {
+    background: linear-gradient(to right, #ea6b74, #cc5d65);
+}
+
+.h {
+    background: linear-gradient(to right, #ed7c74, #cc6b64);
+}
+
+.i {
+    background: linear-gradient(to right, #f18d73, #d37b65);
+}
+
+.j {
+    background: linear-gradient(to right, #f69d71, #d18661);
+}
+
+.k {
+    background: linear-gradient(to right, #f9af72, #d69662);
+}
+
+.l {
+    background: linear-gradient(to right, #fdbe71, #fdbe71);
+}
+
+.m {
+    background: linear-gradient(to right, #ffcc8d, #ddb17b);
+}
+
+.n {
+    background: linear-gradient(to right, #ffe0ba, #dfc4a3);
+}
